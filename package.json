@@ -1,0 +1,11 @@
+{
+  "name": "shanxitongjiju0.1",
+  "version": "1.0.0",
+  "description": "陕西统计局2016年统计工作会议专题",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gzgqq",
+  "license": "ISC"
+}
